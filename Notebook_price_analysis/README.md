@@ -1,4 +1,4 @@
-**Análise de preço de venda de notebooks**
+## Análise de preço de venda de notebooks
 
 > Entendendo o problema:
 
@@ -16,3 +16,7 @@
 * Metodologia:  
   * Análise exploratória de dados (EDA): ajuda-nos a enteder o conjunto de dados e a saber quais atributos são necessários para a análise, se há algum outliers, quaisquer valores ausentes, valores únicos, etc.
   * Análise descritiva dos dados: estatística descritiva.
+
+
+
+**Obs: Para visualizar o projeto em forma de notebook, fazer download do arquivo html e abrir no navegador**
